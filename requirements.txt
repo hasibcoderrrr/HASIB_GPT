@@ -1,0 +1,10 @@
+flask
+openai
+python-dotenv
+requests
+gtts
+SpeechRecognition
+PyPDF2
+python-docx
+pytesseract
+Pillow
